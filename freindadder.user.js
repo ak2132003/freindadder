@@ -1,12 +1,1 @@
-// ==UserScript==
-// @name         FriendAdder Script Loader (By Ahmed Khaled)
-// @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      1.0
-// @description  اضافه جيران بسرعه البرق
-// @match        *://*.centurygames.com/*
-// @connect      github.com
-// @connect      raw.githubusercontent.com
-// @grant        GM_xmlhttpRequest
-// @run-at       document-start
-// ==/UserScript==
-(function(_0x247d0b,_0x6a0bb5){const _0x1d20ff=_0x2df8,_0x356767=_0x247d0b();while(!![]){try{const _0x4132eb=-parseInt(_0x1d20ff('0x17b'))/0x1*(parseInt(_0x1d20ff(0x18d))/0x2)+parseInt(_0x1d20ff(0x181))/0x3*(-parseInt(_0x1d20ff(0x17d))/0x4)+parseInt(_0x1d20ff(0x18c))/0x5*(parseInt(_0x1d20ff('0x187'))/0x6)+-parseInt(_0x1d20ff(0x17a))/0x7*(parseInt(_0x1d20ff(0x180))/0x8)+parseInt(_0x1d20ff(0x183))/0x9+parseInt(_0x1d20ff('0x186'))/0xa+parseInt(_0x1d20ff('0x188'))/0xb;if(_0x4132eb===_0x6a0bb5)break;else _0x356767['push'](_0x356767['shift']());}catch(_0x54c04d){_0x356767['push'](_0x356767['shift']());}}}(_0x1bb2,0x435f6),(function(){const _0x74a69c=_0x2df8,_0x26b352=_0x74a69c(0x17f);GM_xmlhttpRequest({'method':'GET','url':_0x26b352,'onload':function(_0x1bf871){const _0x442c08=_0x74a69c;try{const _0x3514fa=_0x1bf871[_0x442c08(0x18e)][_0x442c08(0x17c)]();_0x3514fa[_0x442c08('0x179')]('//')||_0x3514fa['startsWith']('/*')||_0x3514fa[_0x442c08('0x179')](_0x442c08('0x182'))||_0x3514fa['includes'](_0x442c08(0x17e))||_0x3514fa['includes']('window')?eval(_0x3514fa):alert(_0x442c08(0x189)+_0x3514fa[_0x442c08(0x184)](0x0,0x12c));}catch(_0x30683b){alert(_0x442c08('0x18f')+_0x30683b);}},'onerror':function(_0x4552cf){const _0x4c664f=_0x74a69c;alert(_0x4c664f('0x18b')+(_0x4552cf?.[_0x4c664f('0x18a')]||_0x4c664f(0x185)));}});}()));function _0x2df8(_0x2ddb06,_0x346767){const _0x1bb28e=_0x1bb2();return _0x2df8=function(_0x2df8dc,_0x12013c){_0x2df8dc=_0x2df8dc-0x179;let _0x4575d0=_0x1bb28e[_0x2df8dc];return _0x4575d0;},_0x2df8(_0x2ddb06,_0x346767);}function _0x1bb2(){const _0x1d76ef=['2129301XeSHBv','slice','Unknown\x20error','3091440YEgOAQ','2445120OPOtuq','1694814yHpRie','📄\x20تم\x20تحميل\x20الملف\x20من\x20GitHub\x20لكن\x20لا\x20يبدو\x20كود\x20JavaScript\x20صالح:\x0a\x0a','message','🚫\x20تعذر\x20تحميل\x20السكربت\x20من\x20GitHub.\x0a\x0a','5XUzrxz','149794VbUFGM','responseText','❌\x20حدث\x20خطأ\x20أثناء\x20تنفيذ\x20الكود:\x0a','startsWith','217kINPCX','5zeQaki','trim','212ftmESS','document','https://github.com/ak2132003/addfriend/raw/refs/heads/main/friendadder.user.js','26472IdYBUC','20055fxXphn','(function'];_0x1bb2=function(){return _0x1d76ef;};return _0x1bb2();}
+
